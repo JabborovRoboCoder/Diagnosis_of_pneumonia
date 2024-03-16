@@ -5,7 +5,7 @@ import plotly.express as px
 
 
 
-st.write("## X-Ray Sog'liq detektori")
+st.write("## AI Sog'liq detektori")
 st.write(
     ":hospital: Ko‘krak qafasi rentgenogrammasi yordamida Pneumoniaga chalingan va Sog'lom insonni ajratish :female-doctor:"
 )
