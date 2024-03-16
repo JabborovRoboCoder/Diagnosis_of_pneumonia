@@ -7,7 +7,7 @@ import plotly.express as px
 
 st.write("## AI Sog'liq detektori")
 st.write(
-    ":hospital: Ko‘krak qafasi rentgenogrammasi yordamida Pneumoniaga chalingan va Sog'lom insonni ajratish :female-doctor:"
+    ":hospital: O'pka tomografiyasida zararlangan va zararlanmagan o'pkalarni topish :female-doctor:"
 )
 st.sidebar.write("## X-Ray Rasmini Yuklash :gear:")
 
