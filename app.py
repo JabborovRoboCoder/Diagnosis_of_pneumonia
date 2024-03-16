@@ -38,15 +38,15 @@ if file:
         st.plotly_chart(fig)
 else:
     col1.write("Yuklangan Rasm :camera:")
-    # with col1:
-    #     # st.image("x_ray.jpg")
+    with col1:
+        st.image("x_ray.jpg")
     col2.write("Natijalar 🧬 🧠")
     with col2:
         st.success(f"Bashorat Qiymati")
         st.info(f"Bashorat aniqligi (%)")
     col3.write("Bashorat aniqlik Grafigi 📈")
-    # with col3:
-    #     # st.image("grafik.jpg")
+    with col3:
+        st.image("grafik.jpg")
       
 
 with st.expander("Foydalanish Qo'llanmasi"):
